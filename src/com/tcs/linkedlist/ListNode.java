@@ -1,4 +1,4 @@
-package com.tcs;
+package com.tcs.linkedlist;
 
 import java.util.Objects;
 

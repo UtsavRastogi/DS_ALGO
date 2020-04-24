@@ -1,4 +1,4 @@
-package com.tcs;
+package com.tcs.linkedlist;
 
 public class LinkedList {
 	//This is the only variable of ListNode class, used to store the head
